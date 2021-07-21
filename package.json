@@ -1,9 +1,9 @@
 {
   "name": "cn-address-parse",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Chinese address parse",
-  "main": "lib/index.js",
-  "types": "lib/index.d.ts",
+  "main": "lib/src/index.js",
+  "types": "lib/src/index.d.ts",
   "scripts": {
     "test": "jest --config jestconfig.json",
     "build": "tsc",
